@@ -2,25 +2,23 @@
 This Power BI dashboard provides an end-to-end analysis of Blinkit’s sales performance across outlets, item categories, and customer preferences. The dashboard helps stakeholders monitor key metrics, identify trends, and make data-driven business decisions.
 
 🏷 Business Value
-
 1.Identifies top-selling categories and outlets for targeted marketing.
 2.Reveals customer preferences (regular fat, fresh produce, snacks).
 3.Helps optimize supply chain & inventory by focusing on high-performing outlets and item types.
 4.Guides expansion strategy with insights on Tier 3 city performance.
 
 🎯 Goal
-
 The goal of this dashboard is to provide actionable insights into Blinkit’s sales performance across different outlets, product categories, and customer segments. By analyzing sales, item distribution, and customer ratings, the dashboard helps stakeholders monitor performance, identify trends, and support data-driven decision-making for growth and efficiency.
 
 Key Insights
-`1. Overall Performance
+1. Overall Performance
 
    Total Sales: $1.20M
    Average Sales per Transaction: $141
    Number of Items Sold: 8,523
    Average Customer Rating: 3.9/5
 
-`2. Sales by Fat Content
+2. Sales by Fat Content
    
    Regular Products: $776K
    Low Fat Products: $425K
@@ -48,23 +46,14 @@ Peak sales observed in 2018 ($205K), followed by slight decline post-2019.
    High Outlets: $508K
 High-size outlets drive the most revenue.
 
-7. Sales by Outlet Location Type
+6. Sales by Outlet Location Type
 
    Tier 3 Locations: $472K
    Tier 2 Locations: $393K
    Tier 1 Locations: $336K
 Tier 3 cities outperform Tier 1 in total sales, showing strong demand in semi-urban areas.
 
-8. Outlet Type Analysis
-   
-   Outlet Type	Total Sales	No. of Items	Avg Sales	Avg Rating
-   Supermarket Type 2	$787K	5577	$141	4
-   Grocery Store	$151K	1083	$140	4
-   Supermarket Type 1	$131K	928	$142	4
-   Supermarket Type 3	$131K	935	$140	4
-Supermarket Type 2 dominates sales and product variety.
-
-9. Tools & Tech
+7. Tools & Tech
 
 Power BI for visualization
 Data Cleaning & Modeling in Power Query
@@ -74,12 +63,12 @@ DAX for calculated measures
 
 This dashboard helps answer critical business questions such as:
 
-   Sales Performance
+Sales Performance
 
    1. What is the overall sales revenue, average sales, and number of items sold?
    2. How do customer ratings impact performance?
 
-   Product Insights
+Product Insights
 
    1. Which item categories contribute the most to revenue?
    2. Do customers prefer low-fat or regular-fat products?
